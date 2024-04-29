@@ -1,16 +1,19 @@
-### Hi there 👋
+### LockBox Solana Token / LP Locker ###
 
-<!--
-**LockBoxSol/lockboxsol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+v0.2.0
+LOCKBOX Solana Token Locker
+LockBox - The first decentralized APY-earning locker on Solana.
+Burning is wasteful. Lock your tokens, establish trust, and earn APY!
 
-Here are some ideas to get you started:
+Website: https://lockboxsol.com
+Twitter: https://twitter.com/lockboxsol
+Telegram: https://t.me/lockboxsol
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Our RC release is now live! The locker can now be used for any type of token, and will earn APY for any user who locks liquidity pool tokens. The RC app is still in Beta, so please report any bugs or issues to our team.
+
+
+- Secure and decentralized
+- Lock fee refunded after 6 months
+- High APY for locked assets
+- Access to team for any tech help
+- A new way to launch, lock, & earn
